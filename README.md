@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sujon Pramanik
 #### Full Stack Developer
-![Full Stack Developer](https://scontent.fdac148-1.fna.fbcdn.net/v/t39.30808-6/510425824_122100621032919239_8144333075757084224_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=CdFHDX2LcqQQ7kNvwG4eMmn&_nc_oc=AdmZa2n1vvZSTMAcv2Ld5_7H7UkEnKCarpJGqk1vTlqMgVlx8J2D_QdOAgsop2c47KM&_nc_zt=23&_nc_ht=scontent.fdac148-1.fna&_nc_gid=YLIjva25AP86nSrAfhYF9g&oh=00_AfQmAjsR9nZ77BvRBGJzhF4oUQaZzper1UMuszEctaGn8Q&oe=68880784)
+![Full Stack Developer]([https://scontent.fdac148-1.fna.fbcdn.net/v/t39.30808-6/510425824_122100621032919239_8144333075757084224_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=CdFHDX2LcqQQ7kNvwG4eMmn&_nc_oc=AdmZa2n1vvZSTMAcv2Ld5_7H7UkEnKCarpJGqk1vTlqMgVlx8J2D_QdOAgsop2c47KM&_nc_zt=23&_nc_ht=scontent.fdac148-1.fna&_nc_gid=YLIjva25AP86nSrAfhYF9g&oh=00_AfQmAjsR9nZ77BvRBGJzhF4oUQaZzper1UMuszEctaGn8Q&oe=68880784](https://media.licdn.com/dms/image/v2/D5616AQEgIw_awVDT2w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1678720771656?e=1756339200&v=beta&t=pd8tfp49dXCSbyYv5HMxiTs3zmz3ngvnvpD6ITOmIpw))
 
 I build scalable full-stack web applications with modern technologies like React, Node.js, and MongoDB.
 
